@@ -1,4 +1,4 @@
-package pro.omarahmed.agent;
+package pro.omarahmed.agentxd
 
 import com.sun.tools.attach.AgentInitializationException;
 import com.sun.tools.attach.AgentLoadException;
